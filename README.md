@@ -11,9 +11,19 @@ Here is the api of TickTack:
 
 ### Page Data
 
+**getPageIndicator**
+
+**getPageDetail**
+
+**getResourceDetail**
 
 
-**SPA Data**
+
+### SPA Data
+
+**getSPAIndicator**
+
+**getSPADetail**
 
 
 Here is the series of articles I mentioned before:
