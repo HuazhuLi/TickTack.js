@@ -10,20 +10,31 @@ TickTack.js is a tool that enables the users can easily get the performance data
 Here is the api of TickTack:
 
 ### Page Data
-#### test
-**getPageIndicator**
 
-**getPageDetail**
+**getPageIndicator()**
 
-**getResourceDetail**
+firstPaint()
+
+AboveThefold()
+
+Scrollable()
+
+Interact()
+
+
+
+
+**getPageDetail()**
+
+**getResourceDetail()**
 
 
 
 ### SPA Data
 
-**getSPAIndicator**
+**getSPAIndicator()**
 
-**getSPADetail**
+**getSPADetail()**
 
 
 Here is the series of articles I mentioned before:
