@@ -9,6 +9,12 @@ When I was developing my SPA, I tried to improve its user experience,so I turned
 TickTack.js is a tool that enables the users can easily get the performance data from SPAs and tranditional pages.
 Here is the api of TickTack:
 
+### Page Data
+
+
+
+**SPA Data**
+
 
 Here is the series of articles I mentioned before:
 
